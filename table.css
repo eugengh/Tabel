@@ -1,0 +1,31 @@
+table, td, tr, th{
+    border:1px solid #333;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nr{
+    width: 60px;
+}
+.d{
+    width: 210px;
+}
+.cl{
+    width: 100px;
+}
+.sus{
+    background-color: rgba(42, 168, 255, 0.4);
+}
+.jos{
+    height: 23px;
+}
+.medie{
+    background-color: rgba(189, 151, 71, 0.8);
+}
+.med{
+    background-color: rgba(234, 207, 80, 0.8);
+}
+.left{
+    text-align: left;
+}
